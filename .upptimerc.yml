@@ -16,6 +16,8 @@ sites:
     url: https://m17ita.hblink.it
   - name: XLX965
     url: https://xlx965.hblink.it
+  - name: APRS
+    url: https://aprs.hblink.it
 
 status-website:
   # Add your custom domain below, or remove the next line if you don't have a domain
