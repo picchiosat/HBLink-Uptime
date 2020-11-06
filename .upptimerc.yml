@@ -1,21 +1,21 @@
 # Change these first
-owner: upptime # Your GitHub username
-repo: upptime # Your Github repository name
+owner: IV3JDV # Your GitHub username
+repo: HBLink Uptime # Your Github repository name
 
 # Add your sites here
 sites:
-  - name: Google
-    url: https://www.google.com
-  - name: Wikipedia
-    url: https://en.wikipedia.org
-  - name: Internet Archive
-    url: https://archive.org
-  - name: Hacker News
-    url: https://news.ycombinator.com
-  - name: Broken Site
-    url: https://thissitedoesnotexist.com
-  - name: Secret Site
-    url: $SECRET_SITE
+  - name: MASTER
+    url: http://dashboard.hblink.it
+  - name: YSF REF
+    url: https://ysf.hblink.it
+  - name: NXDN REF
+    url: https://nxdn.hblink.it
+  - name: P25 REF
+    url: https://p25.hblink.it
+  - name: M17 REF
+    url: https://m17ita.hblink.it
+  - name: XLX965
+    url: https://xlx965.hblink.it
 
 status-website:
   # Add your custom domain below, or remove the next line if you don't have a domain
