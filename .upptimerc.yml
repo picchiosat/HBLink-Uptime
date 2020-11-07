@@ -25,7 +25,7 @@ status-website:
   # Uncomment the following line if you don't have a custom domain and add your repo name
   # baseUrl: /upptime
   # logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
-  logoUrl: https://www.hblink.it/images/HBlink.png
+  logoUrl: https://www.hblink.it/hblink/images/HBlink.png
   name: Upptime HBLink
   introTitle: HBLink ITALIA Network Status
   introMessage: Statistiche in **real time** dei server HBLink.it 
