@@ -24,10 +24,11 @@ status-website:
   cname: uptime.hblink.it
   # Uncomment the following line if you don't have a custom domain and add your repo name
   # baseUrl: /upptime
-  logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
+  # logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
+  logoUrl: https://www.hblink.it/images/HBlink.png
   name: Upptime HBLink
   introTitle: HBLink ITALIA Network Status
-  introMessage: Statistiche in Real Time dei server di HBLink.it 
+  introMessage: Statistiche in **real time** dei server HBLink.it 
   navbar:
     - title: Status
       href: /
