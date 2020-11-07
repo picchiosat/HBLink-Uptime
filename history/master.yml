@@ -1,7 +1,7 @@
 - url: http://dashboard.hblink.it
 - status: up
 - code: 200
-- responseTime: 1500
-- lastUpdated: 2020-11-06T23:14:39.722Z
+- responseTime: 1098
+- lastUpdated: 2020-11-07T19:19:28.699Z
 - startTime: 2020-11-06T21:59:19.722Z
 - generator: Upptime <https://github.com/upptime/upptime>
