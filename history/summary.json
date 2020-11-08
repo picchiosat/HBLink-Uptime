@@ -3,9 +3,9 @@
     "name": "MASTER",
     "url": "http://dashboard.hblink.it",
     "slug": "master",
-    "status": "up",
-    "uptime": "100.00",
-    "time": 1083
+    "status": "down",
+    "uptime": "99.99",
+    "time": 990
   },
   {
     "name": "YSF REF",
