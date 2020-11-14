@@ -3,33 +3,33 @@
     "name": "MASTER",
     "url": "http://dashboard.hblink.it",
     "slug": "master",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00",
-    "time": 1136
+    "time": 1060
   },
   {
     "name": "YSF REF",
     "url": "https://ysf.hblink.it",
     "slug": "ysf-ref",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00",
-    "time": 2583
+    "time": 2384
   },
   {
     "name": "NXDN REF",
     "url": "https://nxdn.hblink.it",
     "slug": "nxdn-ref",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00",
-    "time": 1828
+    "time": 1688
   },
   {
     "name": "P25 REF",
     "url": "https://p25.hblink.it",
     "slug": "p25-ref",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00",
-    "time": 2128
+    "time": 1964
   },
   {
     "name": "M17 REF",
