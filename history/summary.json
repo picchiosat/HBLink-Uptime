@@ -5,7 +5,7 @@
     "slug": "master",
     "status": "up",
     "uptime": "100.00",
-    "time": 1148
+    "time": 1145
   },
   {
     "name": "YSF REF",
@@ -13,7 +13,7 @@
     "slug": "ysf-ref",
     "status": "up",
     "uptime": "100.00",
-    "time": 2450
+    "time": 2464
   },
   {
     "name": "NXDN REF",
@@ -21,7 +21,7 @@
     "slug": "nxdn-ref",
     "status": "up",
     "uptime": "100.00",
-    "time": 1722
+    "time": 1717
   },
   {
     "name": "P25 REF",
@@ -29,7 +29,7 @@
     "slug": "p25-ref",
     "status": "up",
     "uptime": "100.00",
-    "time": 1997
+    "time": 1992
   },
   {
     "name": "M17 REF",
@@ -37,7 +37,7 @@
     "slug": "m17-ref",
     "status": "up",
     "uptime": "100.00",
-    "time": 799
+    "time": 793
   },
   {
     "name": "XLX965",
@@ -45,7 +45,7 @@
     "slug": "xlx-965",
     "status": "up",
     "uptime": "100.00",
-    "time": 921
+    "time": 913
   },
   {
     "name": "APRS",
@@ -53,6 +53,6 @@
     "slug": "aprs",
     "status": "up",
     "uptime": "100.00",
-    "time": 808
+    "time": 801
   }
 ]
