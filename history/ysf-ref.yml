@@ -1,7 +1,7 @@
 - url: https://ysf.hblink.it
-- status: up
+- status: down
 - code: 200
-- responseTime: 2563
-- lastUpdated: 2020-11-18T23:11:15.931Z
+- responseTime: 2302
+- lastUpdated: 2020-11-19T06:50:03.168Z
 - startTime: 2020-11-06T21:59:21.168Z
 - generator: Upptime <https://github.com/upptime/upptime>
