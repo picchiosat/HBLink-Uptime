@@ -1,7 +1,7 @@
 - url: https://xlx965.hblink.it
-- status: down
+- status: up
 - code: 200
-- responseTime: 747
-- lastUpdated: 2020-11-19T06:50:22.118Z
+- responseTime: 769
+- lastUpdated: 2020-11-19T06:58:09.030Z
 - startTime: 2020-11-06T21:59:30.267Z
 - generator: Upptime <https://github.com/upptime/upptime>
