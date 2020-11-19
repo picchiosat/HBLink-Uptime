@@ -3,56 +3,56 @@
     "name": "MASTER",
     "url": "http://dashboard.hblink.it",
     "slug": "master",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00",
-    "time": 1157
+    "time": 1159
   },
   {
     "name": "YSF REF",
     "url": "https://ysf.hblink.it",
     "slug": "ysf-ref",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00",
-    "time": 2469
+    "time": 2460
   },
   {
     "name": "NXDN REF",
     "url": "https://nxdn.hblink.it",
     "slug": "nxdn-ref",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00",
-    "time": 1715
+    "time": 1719
   },
   {
     "name": "P25 REF",
     "url": "https://p25.hblink.it",
     "slug": "p25-ref",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00",
-    "time": 1991
+    "time": 1971
   },
   {
     "name": "M17 REF",
     "url": "https://m17ita.hblink.it",
     "slug": "m17-ref",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00",
-    "time": 793
+    "time": 785
   },
   {
     "name": "XLX965",
     "url": "https://xlx965.hblink.it",
     "slug": "xlx-965",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00",
-    "time": 915
+    "time": 906
   },
   {
     "name": "APRS",
     "url": "https://aprs.hblink.it",
     "slug": "aprs",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00",
-    "time": 801
+    "time": 792
   }
 ]
