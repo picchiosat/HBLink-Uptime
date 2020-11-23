@@ -4,55 +4,55 @@
     "url": "http://dashboard.hblink.it",
     "slug": "master",
     "status": "up",
-    "uptime": "100.00",
-    "time": 1158
+    "uptime": "99.89%",
+    "time": 1177
   },
   {
     "name": "YSF REF",
     "url": "https://ysf.hblink.it",
     "slug": "ysf-ref",
     "status": "up",
-    "uptime": "100.00",
-    "time": 2447
+    "uptime": "99.85%",
+    "time": 2474
   },
   {
     "name": "NXDN REF",
     "url": "https://nxdn.hblink.it",
     "slug": "nxdn-ref",
     "status": "up",
-    "uptime": "100.00",
-    "time": 1694
+    "uptime": "99.89%",
+    "time": 1705
   },
   {
     "name": "P25 REF",
     "url": "https://p25.hblink.it",
     "slug": "p25-ref",
     "status": "up",
-    "uptime": "100.00",
-    "time": 1944
+    "uptime": "99.89%",
+    "time": 1949
   },
   {
     "name": "M17 REF",
     "url": "https://m17ita.hblink.it",
     "slug": "m17-ref",
     "status": "up",
-    "uptime": "100.00",
-    "time": 768
+    "uptime": "100.00%",
+    "time": 777
   },
   {
     "name": "XLX965",
     "url": "https://xlx965.hblink.it",
     "slug": "xlx-965",
     "status": "up",
-    "uptime": "100.00",
-    "time": 875
+    "uptime": "100.00%",
+    "time": 883
   },
   {
     "name": "APRS",
     "url": "https://aprs.hblink.it",
     "slug": "aprs",
     "status": "up",
-    "uptime": "100.00",
-    "time": 767
+    "uptime": "100.00%",
+    "time": 775
   }
 ]
