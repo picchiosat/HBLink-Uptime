@@ -12,8 +12,8 @@
     "url": "https://ysf.hblink.it",
     "slug": "ysf-ref",
     "status": "up",
-    "uptime": "99.85%",
-    "time": 2474
+    "uptime": "99.86%",
+    "time": 2464
   },
   {
     "name": "NXDN REF",
@@ -21,7 +21,7 @@
     "slug": "nxdn-ref",
     "status": "up",
     "uptime": "99.89%",
-    "time": 1705
+    "time": 1701
   },
   {
     "name": "P25 REF",
@@ -29,7 +29,7 @@
     "slug": "p25-ref",
     "status": "up",
     "uptime": "99.89%",
-    "time": 1949
+    "time": 1944
   },
   {
     "name": "M17 REF",
@@ -37,7 +37,7 @@
     "slug": "m17-ref",
     "status": "up",
     "uptime": "100.00%",
-    "time": 777
+    "time": 774
   },
   {
     "name": "XLX965",
@@ -45,7 +45,7 @@
     "slug": "xlx-965",
     "status": "up",
     "uptime": "100.00%",
-    "time": 883
+    "time": 879
   },
   {
     "name": "APRS",
@@ -53,6 +53,6 @@
     "slug": "aprs",
     "status": "up",
     "uptime": "100.00%",
-    "time": 775
+    "time": 768
   }
 ]
