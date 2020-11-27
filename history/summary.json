@@ -4,32 +4,32 @@
     "url": "http://dashboard.hblink.it",
     "slug": "master",
     "status": "up",
-    "uptime": "99.90%",
-    "time": 1182
+    "uptime": "99.91%",
+    "time": 1197
   },
   {
     "name": "YSF REF",
     "url": "https://ysf.hblink.it",
     "slug": "ysf-ref",
     "status": "up",
-    "uptime": "99.87%",
-    "time": 2449
+    "uptime": "99.88%",
+    "time": 2467
   },
   {
     "name": "NXDN REF",
     "url": "https://nxdn.hblink.it",
     "slug": "nxdn-ref",
     "status": "up",
-    "uptime": "99.90%",
-    "time": 1691
+    "uptime": "99.91%",
+    "time": 1696
   },
   {
     "name": "P25 REF",
     "url": "https://p25.hblink.it",
     "slug": "p25-ref",
     "status": "up",
-    "uptime": "99.90%",
-    "time": 1940
+    "uptime": "99.91%",
+    "time": 1945
   },
   {
     "name": "M17 REF",
@@ -37,7 +37,7 @@
     "slug": "m17-ref",
     "status": "up",
     "uptime": "100.00%",
-    "time": 762
+    "time": 768
   },
   {
     "name": "XLX965",
@@ -45,7 +45,7 @@
     "slug": "xlx-965",
     "status": "up",
     "uptime": "100.00%",
-    "time": 869
+    "time": 875
   },
   {
     "name": "APRS",
@@ -53,6 +53,6 @@
     "slug": "aprs",
     "status": "up",
     "uptime": "100.00%",
-    "time": 762
+    "time": 767
   }
 ]
