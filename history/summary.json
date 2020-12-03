@@ -5,15 +5,31 @@
     "slug": "master",
     "status": "up",
     "uptime": "99.93%",
-    "time": 1234
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "99.93%",
+    "uptimeYear": "99.93%",
+    "time": 1285,
+    "timeDay": 1789,
+    "timeWeek": 1539,
+    "timeMonth": 1285,
+    "timeYear": 1285
   },
   {
     "name": "YSF REF",
     "url": "https://ysf.hblink.it",
     "slug": "ysf-ref",
     "status": "up",
-    "uptime": "99.90%",
-    "time": 2489
+    "uptime": "99.91%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "99.91%",
+    "uptimeYear": "99.91%",
+    "time": 2574,
+    "timeDay": 2862,
+    "timeWeek": 2705,
+    "timeMonth": 2574,
+    "timeYear": 2574
   },
   {
     "name": "NXDN REF",
@@ -21,7 +37,15 @@
     "slug": "nxdn-ref",
     "status": "up",
     "uptime": "99.93%",
-    "time": 1716
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "99.93%",
+    "uptimeYear": "99.93%",
+    "time": 1770,
+    "timeDay": 1825,
+    "timeWeek": 1829,
+    "timeMonth": 1770,
+    "timeYear": 1770
   },
   {
     "name": "P25 REF",
@@ -29,7 +53,15 @@
     "slug": "p25-ref",
     "status": "up",
     "uptime": "99.93%",
-    "time": 1952
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "99.93%",
+    "uptimeYear": "99.93%",
+    "time": 2014,
+    "timeDay": 2099,
+    "timeWeek": 2018,
+    "timeMonth": 2014,
+    "timeYear": 2014
   },
   {
     "name": "M17 REF",
@@ -37,7 +69,15 @@
     "slug": "m17-ref",
     "status": "up",
     "uptime": "100.00%",
-    "time": 772
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 777,
+    "timeDay": 926,
+    "timeWeek": 830,
+    "timeMonth": 777,
+    "timeYear": 777
   },
   {
     "name": "XLX965",
@@ -45,7 +85,15 @@
     "slug": "xlx-965",
     "status": "up",
     "uptime": "100.00%",
-    "time": 884
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 889,
+    "timeDay": 1047,
+    "timeWeek": 963,
+    "timeMonth": 889,
+    "timeYear": 889
   },
   {
     "name": "APRS",
@@ -53,6 +101,14 @@
     "slug": "aprs",
     "status": "up",
     "uptime": "100.00%",
-    "time": 775
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 780,
+    "timeDay": 948,
+    "timeWeek": 848,
+    "timeMonth": 780,
+    "timeYear": 780
   }
 ]
