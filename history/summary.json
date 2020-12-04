@@ -9,11 +9,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.93%",
     "uptimeYear": "99.93%",
-    "time": 1285,
-    "timeDay": 1789,
-    "timeWeek": 1539,
-    "timeMonth": 1285,
-    "timeYear": 1285
+    "time": 1281,
+    "timeDay": 1139,
+    "timeWeek": 1466,
+    "timeMonth": 1281,
+    "timeYear": 1281
   },
   {
     "name": "YSF REF",
@@ -25,11 +25,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.91%",
     "uptimeYear": "99.91%",
-    "time": 2574,
-    "timeDay": 2862,
-    "timeWeek": 2705,
-    "timeMonth": 2574,
-    "timeYear": 2574
+    "time": 2570,
+    "timeDay": 2432,
+    "timeWeek": 2629,
+    "timeMonth": 2570,
+    "timeYear": 2570
   },
   {
     "name": "NXDN REF",
@@ -41,11 +41,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.93%",
     "uptimeYear": "99.93%",
-    "time": 1770,
-    "timeDay": 1825,
-    "timeWeek": 1829,
-    "timeMonth": 1770,
-    "timeYear": 1770
+    "time": 1767,
+    "timeDay": 1667,
+    "timeWeek": 1806,
+    "timeMonth": 1767,
+    "timeYear": 1767
   },
   {
     "name": "P25 REF",
@@ -57,11 +57,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.93%",
     "uptimeYear": "99.93%",
-    "time": 2014,
-    "timeDay": 2099,
-    "timeWeek": 2018,
-    "timeMonth": 2014,
-    "timeYear": 2014
+    "time": 2013,
+    "timeDay": 1989,
+    "timeWeek": 2007,
+    "timeMonth": 2013,
+    "timeYear": 2013
   },
   {
     "name": "M17 REF",
@@ -73,11 +73,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 777,
-    "timeDay": 926,
-    "timeWeek": 830,
-    "timeMonth": 777,
-    "timeYear": 777
+    "time": 772,
+    "timeDay": 625,
+    "timeWeek": 786,
+    "timeMonth": 772,
+    "timeYear": 772
   },
   {
     "name": "XLX965",
@@ -89,11 +89,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 889,
-    "timeDay": 1047,
-    "timeWeek": 963,
-    "timeMonth": 889,
-    "timeYear": 889
+    "time": 886,
+    "timeDay": 794,
+    "timeWeek": 927,
+    "timeMonth": 886,
+    "timeYear": 886
   },
   {
     "name": "APRS",
@@ -105,10 +105,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 780,
-    "timeDay": 948,
-    "timeWeek": 848,
-    "timeMonth": 780,
-    "timeYear": 780
+    "time": 775,
+    "timeDay": 612,
+    "timeWeek": 804,
+    "timeMonth": 775,
+    "timeYear": 775
   }
 ]
