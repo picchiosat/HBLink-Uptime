@@ -4,10 +4,10 @@
     "url": "http://dashboard.hblink.it",
     "icon": "https://favicons.githubusercontent.com/dashboard.hblink.it",
     "slug": "master",
-    "status": "up",
+    "status": "down",
     "uptime": "99.94%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "99.94%",
     "uptimeYear": "99.94%",
     "time": 1300,
@@ -16,6 +16,7 @@
     "timeMonth": 1337,
     "timeYear": 1300,
     "dailyMinutesDown": {
+      "2020-12-08": 1,
       "2020-11-14": 26
     }
   },
@@ -24,9 +25,9 @@
     "url": "https://ysf.hblink.it",
     "icon": "https://favicons.githubusercontent.com/ysf.hblink.it",
     "slug": "ysf-ref",
-    "status": "up",
+    "status": "down",
     "uptime": "99.92%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.92%",
     "uptimeYear": "99.92%",
@@ -36,6 +37,7 @@
     "timeMonth": 2517,
     "timeYear": 2516,
     "dailyMinutesDown": {
+      "2020-12-08": 0,
       "2020-11-14": 35
     }
   },
