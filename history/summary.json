@@ -64,9 +64,9 @@
     "url": "https://p25.hblink.it",
     "icon": "https://favicons.githubusercontent.com/p25.hblink.it",
     "slug": "p25-ref",
-    "status": "up",
+    "status": "down",
     "uptime": "99.97%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
@@ -76,6 +76,7 @@
     "timeMonth": 2005,
     "timeYear": 2006,
     "dailyMinutesDown": {
+      "2020-12-30": 0,
       "2020-11-14": 26
     }
   },
@@ -105,12 +106,12 @@
     "status": "up",
     "uptime": "99.93%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "99.47%",
+    "uptimeWeek": "100.00%",
     "uptimeMonth": "99.88%",
     "uptimeYear": "99.93%",
     "time": 859,
     "timeDay": 691,
-    "timeWeek": 688,
+    "timeWeek": 687,
     "timeMonth": 850,
     "timeYear": 859,
     "dailyMinutesDown": {
