@@ -4,7 +4,7 @@ repo: HBLink-Uptime # Your Github repository name
 
 # Add your sites here
 sites:
-  - name: MASTER
+  - name: National MP Node
     url: http://dashboard.hblink.it
   - name: YSF REF
     url: https://ysf.hblink.it
@@ -18,7 +18,13 @@ sites:
     url: https://xlx965.hblink.it
   - name: APRS
     url: https://aprs.hblink.it
-
+  - name: FreeDMR IT Bridge
+    url: https://dashboard.freedmr.it
+  - name: FreeDMR IT Hotspots
+    url: https://hotspot.freedmr.it
+  - name: FreeDMR IT Repeaters
+    url: https://hotspot.freedmr.it
+    
 status-website:
   # Add your custom domain below, or remove the next line if you don't have a domain
   cname: uptime.hblink.it
