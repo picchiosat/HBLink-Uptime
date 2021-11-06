@@ -83,10 +83,10 @@
     "url": "https://m17ita.hblink.it",
     "icon": "https://favicons.githubusercontent.com/m17ita.hblink.it",
     "slug": "m17-ref",
-    "status": "up",
+    "status": "down",
     "uptime": "99.98%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.91%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
     "time": 707,
@@ -95,6 +95,7 @@
     "timeMonth": 711,
     "timeYear": 707,
     "dailyMinutesDown": {
+      "2021-11-06": 1,
       "2021-01-31": 70,
       "2021-01-30": 2
     }
@@ -104,9 +105,9 @@
     "url": "https://xlx965.hblink.it",
     "icon": "https://favicons.githubusercontent.com/xlx965.hblink.it",
     "slug": "xlx-965",
-    "status": "up",
+    "status": "down",
     "uptime": "99.93%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "99.73%",
     "uptimeMonth": "99.94%",
     "uptimeYear": "99.93%",
@@ -116,6 +117,7 @@
     "timeMonth": 799,
     "timeYear": 802,
     "dailyMinutesDown": {
+      "2021-11-06": 0,
       "2021-11-02": 27,
       "2021-07-19": 67,
       "2021-06-18": 23,
