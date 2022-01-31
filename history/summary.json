@@ -81,7 +81,7 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.99%",
+    "uptimeYear": "100.00%",
     "time": 698,
     "timeDay": 530,
     "timeWeek": 637,
@@ -128,7 +128,7 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.99%",
+    "uptimeYear": "100.00%",
     "time": 682,
     "timeDay": 616,
     "timeWeek": 656,
@@ -143,9 +143,9 @@
     "url": "https://dashboard.freedmr.it",
     "icon": "https://favicons.githubusercontent.com/dashboard.freedmr.it",
     "slug": "free-dmr-it-bridge",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -154,16 +154,18 @@
     "timeWeek": 574,
     "timeMonth": 579,
     "timeYear": 596,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-01-31": 0
+    }
   },
   {
     "name": "FreeDMR IT Hotspots",
     "url": "https://hotspot.freedmr.it",
     "icon": "https://favicons.githubusercontent.com/hotspot.freedmr.it",
     "slug": "free-dmr-it-hotspots",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -172,16 +174,18 @@
     "timeWeek": 583,
     "timeMonth": 570,
     "timeYear": 581,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-01-31": 0
+    }
   },
   {
     "name": "FreeDMR IT Repeaters",
     "url": "https://hotspot.freedmr.it",
     "icon": "https://favicons.githubusercontent.com/hotspot.freedmr.it",
     "slug": "free-dmr-it-repeaters",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -190,6 +194,8 @@
     "timeWeek": 123,
     "timeMonth": 124,
     "timeYear": 124,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-01-31": 0
+    }
   }
 ]
