@@ -1,7 +1,7 @@
 url: https://nxdn.hblink.it
-status: up
-code: 200
-responseTime: 3226
-lastUpdated: 2022-09-10T10:54:21.365Z
+status: down
+code: 500
+responseTime: 813
+lastUpdated: 2022-09-10T16:35:30.708Z
 startTime: Tue Jan 05 2021 18:16:53 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
