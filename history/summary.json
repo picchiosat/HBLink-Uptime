@@ -22,19 +22,19 @@
     "url": "https://ysf.hblink.it",
     "icon": "https://favicons.githubusercontent.com/ysf.hblink.it",
     "slug": "ysf-ref",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.91%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
+    "status": "up",
+    "uptime": "99.99%",
+    "uptimeDay": "99.13%",
+    "uptimeWeek": "99.88%",
+    "uptimeMonth": "99.97%",
     "uptimeYear": "100.00%",
-    "time": 965,
-    "timeDay": 948,
-    "timeWeek": 809,
+    "time": 963,
+    "timeDay": 894,
+    "timeWeek": 813,
     "timeMonth": 832,
     "timeYear": 746,
     "dailyMinutesDown": {
-      "2022-09-10": 1
+      "2022-09-10": 12
     }
   },
   {
@@ -42,19 +42,19 @@
     "url": "https://nxdn.hblink.it",
     "icon": "https://favicons.githubusercontent.com/nxdn.hblink.it",
     "slug": "nxdn-ref",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.94%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.17%",
+    "uptimeWeek": "99.88%",
+    "uptimeMonth": "99.97%",
     "uptimeYear": "100.00%",
-    "time": 1880,
-    "timeDay": 3092,
-    "timeWeek": 2353,
-    "timeMonth": 2219,
-    "timeYear": 1913,
+    "time": 1883,
+    "timeDay": 3159,
+    "timeWeek": 2462,
+    "timeMonth": 2250,
+    "timeYear": 1917,
     "dailyMinutesDown": {
-      "2022-09-10": 1
+      "2022-09-10": 12
     }
   },
   {
@@ -62,19 +62,19 @@
     "url": "https://p25.hblink.it",
     "icon": "https://favicons.githubusercontent.com/p25.hblink.it",
     "slug": "p25-ref",
-    "status": "down",
+    "status": "up",
     "uptime": "99.99%",
-    "uptimeDay": "99.97%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.20%",
+    "uptimeWeek": "99.89%",
+    "uptimeMonth": "99.97%",
     "uptimeYear": "100.00%",
-    "time": 1782,
-    "timeDay": 2721,
-    "timeWeek": 2285,
-    "timeMonth": 2140,
-    "timeYear": 1817,
+    "time": 1784,
+    "timeDay": 2756,
+    "timeWeek": 2348,
+    "timeMonth": 2160,
+    "timeYear": 1820,
     "dailyMinutesDown": {
-      "2022-09-10": 0
+      "2022-09-10": 12
     }
   },
   {
