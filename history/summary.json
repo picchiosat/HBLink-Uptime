@@ -4,11 +4,11 @@
     "url": "http://dashboard.hblink.it",
     "icon": "https://icons.duckduckgo.com/ip3/dashboard.hblink.it.ico",
     "slug": "national-mp-node",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.95%",
+    "uptimeDay": "99.86%",
+    "uptimeWeek": "99.98%",
+    "uptimeMonth": "99.94%",
     "uptimeYear": "100.00%",
     "time": 911,
     "timeDay": 1029,
@@ -16,6 +16,7 @@
     "timeMonth": 1124,
     "timeYear": 918,
     "dailyMinutesDown": {
+      "2022-10-09": 2,
       "2022-09-18": 22
     }
   },
@@ -25,18 +26,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/ysf.hblink.it.ico",
     "slug": "ysf-ref",
     "status": "up",
-    "uptime": "96.86%",
+    "uptime": "96.78%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "33.90%",
-    "uptimeYear": "94.49%",
+    "uptimeMonth": "32.12%",
+    "uptimeYear": "94.34%",
     "time": 886,
     "timeDay": 1224,
     "timeWeek": 764,
     "timeMonth": 746,
     "timeYear": 748,
     "dailyMinutesDown": {
-      "2022-10-09": 116,
+      "2022-10-09": 893,
       "2022-10-08": 1440,
       "2022-10-07": 1440,
       "2022-10-06": 1440,
@@ -65,10 +66,10 @@
     "url": "https://nxdn.hblink.it",
     "icon": "https://icons.duckduckgo.com/ip3/nxdn.hblink.it.ico",
     "slug": "nxdn-ref",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.95%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "99.83%",
     "uptimeYear": "99.99%",
     "time": 1909,
@@ -77,6 +78,7 @@
     "timeMonth": 2108,
     "timeYear": 1915,
     "dailyMinutesDown": {
+      "2022-10-09": 1,
       "2022-09-18": 20,
       "2022-09-10": 55
     }
@@ -86,9 +88,9 @@
     "url": "https://p25.hblink.it",
     "icon": "https://icons.duckduckgo.com/ip3/p25.hblink.it.ico",
     "slug": "p25-ref",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.83%",
     "uptimeYear": "99.99%",
@@ -98,6 +100,7 @@
     "timeMonth": 1899,
     "timeYear": 1824,
     "dailyMinutesDown": {
+      "2022-10-09": 0,
       "2022-09-18": 18,
       "2022-09-10": 55
     }
