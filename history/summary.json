@@ -27,7 +27,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/ysf.hblink.it.ico",
     "slug": "ysf-ref",
     "status": "up",
-    "uptime": "95.58%",
+    "uptime": "95.59%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
@@ -121,27 +121,29 @@
     "url": "https://m17ita.hblink.it",
     "icon": "https://icons.duckduckgo.com/ip3/m17ita.hblink.it.ico",
     "slug": "m17-ref",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 737,
+    "time": 738,
     "timeDay": 705,
     "timeWeek": 799,
     "timeMonth": 915,
     "timeYear": 751,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-12-01": 0
+    }
   },
   {
     "name": "XLX965",
     "url": "https://xlx965.hblink.it",
     "icon": "https://icons.duckduckgo.com/ip3/xlx965.hblink.it.ico",
     "slug": "xlx-965",
-    "status": "up",
+    "status": "down",
     "uptime": "99.93%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.93%",
@@ -151,6 +153,7 @@
     "timeMonth": 918,
     "timeYear": 844,
     "dailyMinutesDown": {
+      "2022-12-01": 0,
       "2022-10-21": 75,
       "2022-04-14": 18,
       "2022-04-03": 92,
@@ -164,18 +167,20 @@
     "url": "https://aprs.hblink.it",
     "icon": "https://icons.duckduckgo.com/ip3/aprs.hblink.it.ico",
     "slug": "aprs",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 701,
+    "time": 702,
     "timeDay": 663,
     "timeWeek": 807,
     "timeMonth": 743,
     "timeYear": 711,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-12-01": 0
+    }
   },
   {
     "name": "FreeDMR IT Bridge",
