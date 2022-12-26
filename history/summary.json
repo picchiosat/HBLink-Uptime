@@ -196,9 +196,9 @@
     "url": "https://dashboard.freedmr.it",
     "icon": "https://icons.duckduckgo.com/ip3/dashboard.freedmr.it.ico",
     "slug": "free-dmr-it-bridge",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
@@ -208,6 +208,7 @@
     "timeMonth": 686,
     "timeYear": 635,
     "dailyMinutesDown": {
+      "2022-12-26": 0,
       "2022-01-31": 51
     }
   },
