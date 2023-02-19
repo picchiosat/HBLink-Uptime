@@ -7,7 +7,7 @@ sites:
   - name: National MP Node
     url: http://dashboard.hblink.it
   - name: YSF REF
-    url: https://ysf.hblink.it
+    url: https://ysf.freedmr.it
   - name: NXDN REF
     url: https://nxdn.hblink.it
   - name: P25 REF
