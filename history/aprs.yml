@@ -1,7 +1,7 @@
 url: https://aprs.hblink.it
-status: up
-code: 200
-responseTime: 628
-lastUpdated: 2023-02-21T23:13:50.714Z
+status: down
+code: 503
+responseTime: 712
+lastUpdated: 2023-02-22T22:00:21.818Z
 startTime: Tue Jan 05 2021 18:16:59 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
