@@ -16,8 +16,6 @@ sites:
     url: https://m17ita.hblink.it
   - name: XLX965
     url: https://xlx965.hblink.it
-  - name: APRS
-    url: https://aprs.hblink.it
   - name: FreeDMR IT Bridge
     url: https://dashboard.freedmr.it
   - name: FreeDMR IT Hotspots
