@@ -4,18 +4,20 @@
     "url": "http://dashboard.hblink.it",
     "icon": "https://icons.duckduckgo.com/ip3/dashboard.hblink.it.ico",
     "slug": "national-mp-node",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1175,
+    "time": 1176,
     "timeDay": 1343,
     "timeWeek": 1120,
     "timeMonth": 1189,
     "timeYear": 1146,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-02-10": 0
+    }
   },
   {
     "name": "YSF REF",
@@ -29,7 +31,7 @@
     "uptimeMonth": "96.36%",
     "uptimeYear": "95.82%",
     "time": 1027,
-    "timeDay": 1157,
+    "timeDay": 1409,
     "timeWeek": 1269,
     "timeMonth": 1120,
     "timeYear": 1060,
