@@ -4,19 +4,19 @@
     "url": "http://dashboard.hblink.it",
     "icon": "https://icons.duckduckgo.com/ip3/dashboard.hblink.it.ico",
     "slug": "national-mp-node",
-    "status": "down",
+    "status": "up",
     "uptime": "99.99%",
-    "uptimeDay": "99.97%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "98.90%",
+    "uptimeWeek": "99.84%",
+    "uptimeMonth": "99.96%",
     "uptimeYear": "100.00%",
-    "time": 1176,
-    "timeDay": 1343,
-    "timeWeek": 1120,
-    "timeMonth": 1189,
+    "time": 1175,
+    "timeDay": 1100,
+    "timeWeek": 1087,
+    "timeMonth": 1178,
     "timeYear": 1146,
     "dailyMinutesDown": {
-      "2024-02-10": 0
+      "2024-02-10": 16
     }
   },
   {
