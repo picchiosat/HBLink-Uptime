@@ -11,7 +11,7 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 1127,
-    "timeDay": 887,
+    "timeDay": 890,
     "timeWeek": 983,
     "timeMonth": 1037,
     "timeYear": 1124,
@@ -26,17 +26,16 @@
     "slug": "ysf-ref",
     "status": "up",
     "uptime": "98.72%",
-    "uptimeDay": "99.58%",
-    "uptimeWeek": "97.67%",
-    "uptimeMonth": "98.35%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "97.73%",
+    "uptimeMonth": "98.36%",
     "uptimeYear": "95.57%",
     "time": 1042,
-    "timeDay": 1007,
+    "timeDay": 1021,
     "timeWeek": 1004,
     "timeMonth": 997,
     "timeYear": 1044,
     "dailyMinutesDown": {
-      "2024-06-17": 6,
       "2024-06-15": 16,
       "2024-06-14": 44,
       "2024-06-13": 78,
@@ -117,7 +116,7 @@
       "2023-08-18": 1378,
       "2023-08-17": 914,
       "2023-08-16": 20,
-      "2023-08-12": 284
+      "2023-08-12": 305
     }
   },
   {
@@ -132,7 +131,7 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 1796,
-    "timeDay": 1554,
+    "timeDay": 1583,
     "timeWeek": 1635,
     "timeMonth": 1665,
     "timeYear": 1778,
@@ -150,7 +149,7 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 1763,
-    "timeDay": 1559,
+    "timeDay": 1594,
     "timeWeek": 1625,
     "timeMonth": 1692,
     "timeYear": 1762,
@@ -168,7 +167,7 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 634,
-    "timeDay": 586,
+    "timeDay": 751,
     "timeWeek": 550,
     "timeMonth": 543,
     "timeYear": 635,
@@ -186,7 +185,7 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.96%",
     "time": 883,
-    "timeDay": 725,
+    "timeDay": 747,
     "timeWeek": 767,
     "timeMonth": 816,
     "timeYear": 884,
@@ -211,7 +210,7 @@
     "uptimeMonth": "99.70%",
     "uptimeYear": "97.87%",
     "time": 798,
-    "timeDay": 628,
+    "timeDay": 633,
     "timeWeek": 681,
     "timeMonth": 699,
     "timeYear": 778,
@@ -252,8 +251,7 @@
       "2023-08-17": 913,
       "2023-08-11": 178,
       "2023-08-04": 102,
-      "2023-07-27": 288,
-      "2023-06-19": 20
+      "2023-07-27": 288
     }
   },
   {
@@ -268,7 +266,7 @@
     "uptimeMonth": "99.67%",
     "uptimeYear": "96.64%",
     "time": 827,
-    "timeDay": 618,
+    "timeDay": 631,
     "timeWeek": 641,
     "timeMonth": 656,
     "timeYear": 790,
@@ -328,8 +326,7 @@
       "2023-08-11": 177,
       "2023-08-04": 102,
       "2023-07-27": 287,
-      "2023-06-26": 32,
-      "2023-06-19": 20
+      "2023-06-26": 32
     }
   }
 ]
