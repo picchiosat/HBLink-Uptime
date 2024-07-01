@@ -26,9 +26,9 @@
     "slug": "ysf-ref",
     "status": "up",
     "uptime": "99.12%",
-    "uptimeDay": "94.00%",
-    "uptimeWeek": "91.55%",
-    "uptimeMonth": "97.14%",
+    "uptimeDay": "94.74%",
+    "uptimeWeek": "91.65%",
+    "uptimeMonth": "97.16%",
     "uptimeYear": "96.92%",
     "time": 1033,
     "timeDay": 1013,
@@ -36,7 +36,6 @@
     "timeMonth": 975,
     "timeYear": 1033,
     "dailyMinutesDown": {
-      "2024-07-01": 11,
       "2024-06-30": 76,
       "2024-06-29": 181,
       "2024-06-28": 445,
@@ -114,7 +113,8 @@
       "2023-09-19": 1000,
       "2023-09-12": 631,
       "2023-09-11": 94,
-      "2023-09-04": 64
+      "2023-09-04": 64,
+      "2023-08-29": 20
     }
   },
   {
@@ -257,18 +257,19 @@
     "url": "https://hotspot.freedmr.it",
     "icon": "https://icons.duckduckgo.com/ip3/hotspot.freedmr.it.ico",
     "slug": "free-dmr-it-hotspots",
-    "status": "up",
+    "status": "down",
     "uptime": "98.46%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.91%",
     "uptimeYear": "96.65%",
-    "time": 837,
+    "time": 824,
     "timeDay": 645,
     "timeWeek": 696,
     "timeMonth": 662,
     "timeYear": 786,
     "dailyMinutesDown": {
+      "2024-07-01": 0,
       "2024-06-10": 41,
       "2024-05-20": 21,
       "2024-05-18": 82,
