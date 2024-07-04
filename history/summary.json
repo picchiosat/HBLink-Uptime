@@ -25,18 +25,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/ysf.freedmr.it.ico",
     "slug": "ysf-ref",
     "status": "up",
-    "uptime": "99.25%",
-    "uptimeDay": "99.09%",
-    "uptimeWeek": "91.24%",
-    "uptimeMonth": "96.85%",
-    "uptimeYear": "97.38%",
+    "uptime": "99.24%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "91.37%",
+    "uptimeMonth": "96.88%",
+    "uptimeYear": "97.36%",
     "time": 1033,
     "timeDay": 954,
     "timeWeek": 957,
     "timeMonth": 977,
     "timeYear": 1032,
     "dailyMinutesDown": {
-      "2024-07-03": 13,
       "2024-07-02": 50,
       "2024-07-01": 75,
       "2024-06-30": 76,
@@ -110,7 +109,8 @@
       "2023-10-10": 164,
       "2023-10-08": 18,
       "2023-10-07": 22,
-      "2023-10-06": 15
+      "2023-10-06": 15,
+      "2023-10-03": 154
     }
   },
   {
@@ -255,7 +255,7 @@
     "slug": "free-dmr-it-hotspots",
     "status": "up",
     "uptime": "98.28%",
-    "uptimeDay": "56.26%",
+    "uptimeDay": "63.05%",
     "uptimeWeek": "70.76%",
     "uptimeMonth": "93.18%",
     "uptimeYear": "96.09%",
