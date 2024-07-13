@@ -24,16 +24,16 @@
     "url": "https://ysf.freedmr.it",
     "icon": "https://icons.duckduckgo.com/ip3/ysf.freedmr.it.ico",
     "slug": "ysf-ref",
-    "status": "up",
+    "status": "down",
     "uptime": "99.37%",
-    "uptimeDay": "98.69%",
-    "uptimeWeek": "98.14%",
-    "uptimeMonth": "96.55%",
+    "uptimeDay": "98.67%",
+    "uptimeWeek": "98.13%",
+    "uptimeMonth": "96.59%",
     "uptimeYear": "97.79%",
-    "time": 1027,
-    "timeDay": 930,
-    "timeWeek": 976,
-    "timeMonth": 975,
+    "time": 1028,
+    "timeDay": 960,
+    "timeWeek": 980,
+    "timeMonth": 976,
     "timeYear": 1028,
     "dailyMinutesDown": {
       "2024-07-13": 19,
@@ -106,7 +106,7 @@
       "2023-12-16": 23,
       "2023-12-08": 27,
       "2023-12-04": 83,
-      "2023-12-03": 113
+      "2023-12-03": 94
     }
   },
   {
