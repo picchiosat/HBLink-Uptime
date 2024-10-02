@@ -11,7 +11,7 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 1143,
-    "timeDay": 1336,
+    "timeDay": 1403,
     "timeWeek": 1418,
     "timeMonth": 1480,
     "timeYear": 1149,
@@ -28,12 +28,12 @@
     "uptime": "99.86%",
     "uptimeDay": "95.62%",
     "uptimeWeek": "97.01%",
-    "uptimeMonth": "97.26%",
+    "uptimeMonth": "97.36%",
     "uptimeYear": "99.48%",
     "time": 1037,
-    "timeDay": 1056,
+    "timeDay": 1074,
     "timeWeek": 1089,
-    "timeMonth": 1100,
+    "timeMonth": 1101,
     "timeYear": 1042,
     "dailyMinutesDown": {
       "2024-10-01": 64,
@@ -202,8 +202,7 @@
       "2023-11-22": 27,
       "2023-11-15": 548,
       "2023-11-01": 38,
-      "2023-10-18": 772,
-      "2023-10-03": 154
+      "2023-10-18": 772
     }
   },
   {
@@ -212,18 +211,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/hotspot.freedmr.it.ico",
     "slug": "free-dmr-it-hotspots",
     "status": "down",
-    "uptime": "98.34%",
-    "uptimeDay": "41.45%",
-    "uptimeWeek": "91.64%",
-    "uptimeMonth": "97.78%",
-    "uptimeYear": "97.35%",
+    "uptime": "98.33%",
+    "uptimeDay": "32.95%",
+    "uptimeWeek": "90.42%",
+    "uptimeMonth": "97.50%",
+    "uptimeYear": "97.33%",
     "time": 780,
     "timeDay": 0,
     "timeWeek": 734,
     "timeMonth": 861,
     "timeYear": 787,
     "dailyMinutesDown": {
-      "2024-10-01": 843,
+      "2024-10-02": 78,
+      "2024-10-01": 888,
       "2024-09-05": 128,
       "2024-08-09": 221,
       "2024-07-03": 599,
@@ -265,8 +265,7 @@
       "2023-10-16": 1013,
       "2023-10-11": 94,
       "2023-10-10": 505,
-      "2023-10-09": 131,
-      "2023-10-03": 153
+      "2023-10-09": 131
     }
   }
 ]
