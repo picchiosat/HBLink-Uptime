@@ -26,17 +26,17 @@
     "slug": "ysf-ref",
     "status": "up",
     "uptime": "99.87%",
-    "uptimeDay": "96.35%",
-    "uptimeWeek": "97.37%",
-    "uptimeMonth": "96.06%",
+    "uptimeDay": "97.28%",
+    "uptimeWeek": "97.50%",
+    "uptimeMonth": "96.09%",
     "uptimeYear": "99.48%",
     "time": 1019,
-    "timeDay": 915,
+    "timeDay": 930,
     "timeWeek": 934,
-    "timeMonth": 915,
+    "timeMonth": 916,
     "timeYear": 1007,
     "dailyMinutesDown": {
-      "2024-12-21": 34,
+      "2024-12-21": 21,
       "2024-12-20": 18,
       "2024-12-19": 49,
       "2024-12-18": 42,
@@ -79,7 +79,8 @@
       "2024-11-09": 39,
       "2024-11-08": 60,
       "2024-11-07": 88,
-      "2024-11-04": 105
+      "2024-11-04": 105,
+      "2024-11-03": 17
     }
   },
   {
@@ -141,9 +142,9 @@
     "url": "https://xlx965.hblink.it",
     "icon": "https://icons.duckduckgo.com/ip3/xlx965.hblink.it.ico",
     "slug": "xlx-965",
-    "status": "up",
+    "status": "down",
     "uptime": "99.72%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.92%",
     "uptimeYear": "99.98%",
@@ -153,6 +154,7 @@
     "timeMonth": 896,
     "timeYear": 953,
     "dailyMinutesDown": {
+      "2024-12-21": 0,
       "2024-12-14": 19,
       "2024-12-13": 18,
       "2024-07-09": 16,
