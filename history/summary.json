@@ -24,15 +24,15 @@
     "url": "https://ysf.freedmr.it",
     "icon": "https://icons.duckduckgo.com/ip3/ysf.freedmr.it.ico",
     "slug": "ysf-ref",
-    "status": "up",
+    "status": "down",
     "uptime": "99.87%",
-    "uptimeDay": "97.28%",
+    "uptimeDay": "97.27%",
     "uptimeWeek": "97.50%",
-    "uptimeMonth": "95.92%",
-    "uptimeYear": "99.48%",
+    "uptimeMonth": "95.97%",
+    "uptimeYear": "99.49%",
     "time": 1020,
-    "timeDay": 857,
-    "timeWeek": 925,
+    "timeDay": 872,
+    "timeWeek": 932,
     "timeMonth": 916,
     "timeYear": 1007,
     "dailyMinutesDown": {
@@ -79,8 +79,7 @@
       "2024-11-09": 39,
       "2024-11-08": 60,
       "2024-11-07": 88,
-      "2024-11-04": 105,
-      "2024-11-03": 17
+      "2024-11-04": 105
     }
   },
   {
@@ -143,14 +142,14 @@
     "icon": "https://icons.duckduckgo.com/ip3/xlx965.hblink.it.ico",
     "slug": "xlx-965",
     "status": "up",
-    "uptime": "99.71%",
+    "uptime": "99.72%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.92%",
     "uptimeYear": "99.98%",
     "time": 931,
     "timeDay": 727,
-    "timeWeek": 813,
+    "timeWeek": 822,
     "timeMonth": 896,
     "timeYear": 953,
     "dailyMinutesDown": {
