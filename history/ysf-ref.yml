@@ -1,7 +1,7 @@
 url: https://ysf.freedmr.it
-status: up
-code: 200
-responseTime: 894
-lastUpdated: 2025-01-17T14:46:38.816Z
+status: down
+code: 500
+responseTime: 642
+lastUpdated: 2025-01-17T15:34:05.725Z
 startTime: 2021-01-05T18:16:51.000Z
 generator: Upptime <https://github.com/upptime/upptime>
