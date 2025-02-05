@@ -24,18 +24,19 @@
     "url": "https://ysf.freedmr.it",
     "icon": "https://icons.duckduckgo.com/ip3/ysf.freedmr.it.ico",
     "slug": "ysf-ref",
-    "status": "up",
+    "status": "down",
     "uptime": "99.87%",
-    "uptimeDay": "95.05%",
+    "uptimeDay": "95.03%",
     "uptimeWeek": "96.76%",
     "uptimeMonth": "95.56%",
     "uptimeYear": "99.48%",
-    "time": 1007,
-    "timeDay": 880,
-    "timeWeek": 971,
-    "timeMonth": 998,
+    "time": 1008,
+    "timeDay": 894,
+    "timeWeek": 970,
+    "timeMonth": 999,
     "timeYear": 1003,
     "dailyMinutesDown": {
+      "2025-02-05": 0,
       "2025-02-04": 71,
       "2025-02-03": 92,
       "2025-02-02": 63,
@@ -72,7 +73,7 @@
       "2024-12-25": 109,
       "2024-12-24": 89,
       "2024-12-23": 41,
-      "2024-12-22": 45
+      "2024-12-22": 17
     }
   },
   {
@@ -197,7 +198,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/hotspot.freedmr.it.ico",
     "slug": "free-dmr-it-hotspots",
     "status": "up",
-    "uptime": "98.34%",
+    "uptime": "98.35%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.86%",
