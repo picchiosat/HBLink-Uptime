@@ -13,7 +13,7 @@
     "time": 1174,
     "timeDay": 1223,
     "timeWeek": 1229,
-    "timeMonth": 1281,
+    "timeMonth": 1283,
     "timeYear": 1182,
     "dailyMinutesDown": {}
   },
@@ -22,18 +22,19 @@
     "url": "https://ysf.freedmr.it",
     "icon": "https://icons.duckduckgo.com/ip3/ysf.freedmr.it.ico",
     "slug": "ysf-ref",
-    "status": "up",
+    "status": "down",
     "uptime": "99.88%",
-    "uptimeDay": "94.26%",
+    "uptimeDay": "94.25%",
     "uptimeWeek": "97.85%",
     "uptimeMonth": "96.59%",
     "uptimeYear": "99.50%",
     "time": 1006,
-    "timeDay": 995,
-    "timeWeek": 989,
+    "timeDay": 1002,
+    "timeWeek": 981,
     "timeMonth": 1002,
     "timeYear": 1000,
     "dailyMinutesDown": {
+      "2025-02-24": 0,
       "2025-02-23": 82,
       "2025-02-22": 64,
       "2025-02-19": 25,
@@ -75,7 +76,7 @@
       "2025-01-06": 70,
       "2025-01-05": 39,
       "2025-01-04": 36,
-      "2025-01-03": 57
+      "2025-01-03": 36
     }
   },
   {
@@ -110,7 +111,7 @@
     "time": 1787,
     "timeDay": 1653,
     "timeWeek": 1688,
-    "timeMonth": 1832,
+    "timeMonth": 1827,
     "timeYear": 1784,
     "dailyMinutesDown": {}
   },
@@ -128,7 +129,7 @@
     "time": 641,
     "timeDay": 704,
     "timeWeek": 592,
-    "timeMonth": 702,
+    "timeMonth": 709,
     "timeYear": 638,
     "dailyMinutesDown": {}
   },
@@ -146,7 +147,7 @@
     "time": 940,
     "timeDay": 876,
     "timeWeek": 824,
-    "timeMonth": 850,
+    "timeMonth": 851,
     "timeYear": 966,
     "dailyMinutesDown": {
       "2025-01-09": 18,
@@ -171,7 +172,7 @@
     "time": 745,
     "timeDay": 607,
     "timeWeek": 632,
-    "timeMonth": 707,
+    "timeMonth": 709,
     "timeYear": 728,
     "dailyMinutesDown": {
       "2025-01-08": 39,
@@ -207,7 +208,7 @@
     "time": 751,
     "timeDay": 517,
     "timeWeek": 667,
-    "timeMonth": 683,
+    "timeMonth": 682,
     "timeYear": 732,
     "dailyMinutesDown": {
       "2025-01-17": 22,
