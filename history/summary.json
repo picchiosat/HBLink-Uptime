@@ -22,16 +22,16 @@
     "url": "https://ysf.freedmr.it",
     "icon": "https://icons.duckduckgo.com/ip3/ysf.freedmr.it.ico",
     "slug": "ysf-ref",
-    "status": "up",
+    "status": "down",
     "uptime": "99.87%",
-    "uptimeDay": "89.33%",
-    "uptimeWeek": "96.36%",
+    "uptimeDay": "89.31%",
+    "uptimeWeek": "96.35%",
     "uptimeMonth": "96.15%",
     "uptimeYear": "99.46%",
     "time": 1009,
-    "timeDay": 1502,
-    "timeWeek": 1100,
-    "timeMonth": 1046,
+    "timeDay": 1415,
+    "timeWeek": 1107,
+    "timeMonth": 1044,
     "timeYear": 1004,
     "dailyMinutesDown": {
       "2025-03-20": 154,
@@ -77,7 +77,7 @@
       "2025-01-28": 186,
       "2025-01-27": 1,
       "2025-01-26": 146,
-      "2025-01-25": 35
+      "2025-01-25": 20
     }
   },
   {
