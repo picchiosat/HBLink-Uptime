@@ -13,7 +13,7 @@
     "time": 1190,
     "timeDay": 1870,
     "timeWeek": 1338,
-    "timeMonth": 1471,
+    "timeMonth": 1469,
     "timeYear": 1224,
     "dailyMinutesDown": {}
   },
@@ -24,17 +24,17 @@
     "slug": "ysf-ref",
     "status": "up",
     "uptime": "99.88%",
-    "uptimeDay": "97.95%",
-    "uptimeWeek": "97.37%",
-    "uptimeMonth": "97.04%",
+    "uptimeDay": "98.68%",
+    "uptimeWeek": "97.48%",
+    "uptimeMonth": "96.87%",
     "uptimeYear": "99.48%",
     "time": 1004,
     "timeDay": 968,
     "timeWeek": 947,
-    "timeMonth": 1031,
+    "timeMonth": 1027,
     "timeYear": 1003,
     "dailyMinutesDown": {
-      "2025-03-29": 30,
+      "2025-03-29": 19,
       "2025-03-28": 52,
       "2025-03-26": 57,
       "2025-03-25": 19,
@@ -77,7 +77,8 @@
       "2025-02-06": 25,
       "2025-02-04": 71,
       "2025-02-03": 92,
-      "2025-02-02": 63
+      "2025-02-02": 63,
+      "2025-01-31": 23
     }
   },
   {
@@ -94,7 +95,7 @@
     "time": 1804,
     "timeDay": 2169,
     "timeWeek": 1916,
-    "timeMonth": 2004,
+    "timeMonth": 2027,
     "timeYear": 1814,
     "dailyMinutesDown": {}
   },
@@ -112,7 +113,7 @@
     "time": 1787,
     "timeDay": 1984,
     "timeWeek": 1807,
-    "timeMonth": 1811,
+    "timeMonth": 1818,
     "timeYear": 1793,
     "dailyMinutesDown": {}
   },
@@ -130,7 +131,7 @@
     "time": 642,
     "timeDay": 1002,
     "timeWeek": 736,
-    "timeMonth": 680,
+    "timeMonth": 676,
     "timeYear": 644,
     "dailyMinutesDown": {}
   },
@@ -148,7 +149,7 @@
     "time": 944,
     "timeDay": 1188,
     "timeWeek": 928,
-    "timeMonth": 907,
+    "timeMonth": 901,
     "timeYear": 977,
     "dailyMinutesDown": {
       "2025-03-06": 19,
@@ -173,7 +174,7 @@
     "time": 746,
     "timeDay": 923,
     "timeWeek": 773,
-    "timeMonth": 804,
+    "timeMonth": 800,
     "timeYear": 736,
     "dailyMinutesDown": {
       "2025-03-20": 67,
@@ -213,7 +214,7 @@
     "time": 742,
     "timeDay": 923,
     "timeWeek": 738,
-    "timeMonth": 719,
+    "timeMonth": 718,
     "timeYear": 729,
     "dailyMinutesDown": {
       "2025-03-20": 67,
@@ -250,8 +251,7 @@
       "2024-04-15": 138,
       "2024-04-02": 588,
       "2024-04-01": 1440,
-      "2024-03-31": 867,
-      "2024-03-30": 21
+      "2024-03-31": 867
     }
   }
 ]
