@@ -24,17 +24,17 @@
     "slug": "ysf-ref",
     "status": "up",
     "uptime": "99.87%",
-    "uptimeDay": "95.83%",
-    "uptimeWeek": "93.59%",
-    "uptimeMonth": "96.04%",
+    "uptimeDay": "96.51%",
+    "uptimeWeek": "93.69%",
+    "uptimeMonth": "96.06%",
     "uptimeYear": "99.43%",
     "time": 1005,
     "timeDay": 972,
-    "timeWeek": 964,
+    "timeWeek": 968,
     "timeMonth": 999,
     "timeYear": 1002,
     "dailyMinutesDown": {
-      "2025-04-12": 60,
+      "2025-04-12": 50,
       "2025-04-11": 151,
       "2025-04-10": 96,
       "2025-04-09": 172,
@@ -73,7 +73,7 @@
       "2025-02-25": 53,
       "2025-02-24": 208,
       "2025-02-23": 82,
-      "2025-02-22": 16
+      "2025-02-22": 37
     }
   },
   {
@@ -141,7 +141,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/xlx965.hblink.it.ico",
     "slug": "xlx-965",
     "status": "up",
-    "uptime": "99.52%",
+    "uptime": "99.53%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "89.33%",
