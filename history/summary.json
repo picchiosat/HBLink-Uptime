@@ -4,19 +4,19 @@
     "url": "http://dashboard.hblink.it",
     "icon": "https://icons.duckduckgo.com/ip3/dashboard.hblink.it.ico",
     "slug": "national-mp-node",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.85%",
-    "uptimeWeek": "99.98%",
-    "uptimeMonth": "99.99%",
-    "uptimeYear": "100.00%",
+    "status": "up",
+    "uptime": "99.99%",
+    "uptimeDay": "97.64%",
+    "uptimeWeek": "99.66%",
+    "uptimeMonth": "99.92%",
+    "uptimeYear": "99.99%",
     "time": 1192,
-    "timeDay": 897,
-    "timeWeek": 1001,
-    "timeMonth": 1245,
+    "timeDay": 1136,
+    "timeWeek": 1048,
+    "timeMonth": 1249,
     "timeYear": 1219,
     "dailyMinutesDown": {
-      "2025-04-15": 2
+      "2025-04-15": 34
     }
   },
   {
@@ -83,19 +83,19 @@
     "url": "https://nxdn.hblink.it",
     "icon": "https://icons.duckduckgo.com/ip3/nxdn.hblink.it.ico",
     "slug": "nxdn-ref",
-    "status": "down",
+    "status": "up",
     "uptime": "99.99%",
-    "uptimeDay": "99.89%",
-    "uptimeWeek": "99.98%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "uptimeDay": "97.71%",
+    "uptimeWeek": "99.67%",
+    "uptimeMonth": "99.92%",
+    "uptimeYear": "99.99%",
     "time": 1804,
-    "timeDay": 1588,
-    "timeWeek": 1703,
-    "timeMonth": 1874,
+    "timeDay": 1765,
+    "timeWeek": 1733,
+    "timeMonth": 1876,
     "timeYear": 1818,
     "dailyMinutesDown": {
-      "2025-04-15": 2
+      "2025-04-15": 33
     }
   },
   {
@@ -103,19 +103,19 @@
     "url": "https://p25.hblink.it",
     "icon": "https://icons.duckduckgo.com/ip3/p25.hblink.it.ico",
     "slug": "p25-ref",
-    "status": "down",
+    "status": "up",
     "uptime": "99.99%",
-    "uptimeDay": "99.95%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "uptimeDay": "97.76%",
+    "uptimeWeek": "99.68%",
+    "uptimeMonth": "99.93%",
+    "uptimeYear": "99.99%",
     "time": 1786,
-    "timeDay": 1552,
-    "timeWeek": 1727,
-    "timeMonth": 1792,
+    "timeDay": 1683,
+    "timeWeek": 1738,
+    "timeMonth": 1793,
     "timeYear": 1797,
     "dailyMinutesDown": {
-      "2025-04-15": 1
+      "2025-04-15": 32
     }
   },
   {
