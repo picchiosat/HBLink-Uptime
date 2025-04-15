@@ -4,18 +4,20 @@
     "url": "http://dashboard.hblink.it",
     "icon": "https://icons.duckduckgo.com/ip3/dashboard.hblink.it.ico",
     "slug": "national-mp-node",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.85%",
+    "uptimeWeek": "99.98%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "100.00%",
-    "time": 1191,
+    "time": 1192,
     "timeDay": 897,
     "timeWeek": 1001,
     "timeMonth": 1245,
     "timeYear": 1219,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-04-15": 2
+    }
   },
   {
     "name": "YSF REF",
@@ -25,7 +27,7 @@
     "status": "up",
     "uptime": "99.86%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "93.46%",
+    "uptimeWeek": "94.20%",
     "uptimeMonth": "95.88%",
     "uptimeYear": "99.42%",
     "time": 1005,
@@ -81,36 +83,40 @@
     "url": "https://nxdn.hblink.it",
     "icon": "https://icons.duckduckgo.com/ip3/nxdn.hblink.it.ico",
     "slug": "nxdn-ref",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.89%",
+    "uptimeWeek": "99.98%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1803,
+    "time": 1804,
     "timeDay": 1588,
     "timeWeek": 1703,
     "timeMonth": 1874,
     "timeYear": 1818,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-04-15": 2
+    }
   },
   {
     "name": "P25 REF",
     "url": "https://p25.hblink.it",
     "icon": "https://icons.duckduckgo.com/ip3/p25.hblink.it.ico",
     "slug": "p25-ref",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.95%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1785,
+    "time": 1786,
     "timeDay": 1552,
     "timeWeek": 1727,
     "timeMonth": 1792,
     "timeYear": 1797,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-04-15": 1
+    }
   },
   {
     "name": "M17 REF",
