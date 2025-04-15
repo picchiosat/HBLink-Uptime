@@ -14,7 +14,7 @@
     "timeDay": 897,
     "timeWeek": 1001,
     "timeMonth": 1245,
-    "timeYear": 1218,
+    "timeYear": 1219,
     "dailyMinutesDown": {}
   },
   {
@@ -23,18 +23,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/ysf.freedmr.it.ico",
     "slug": "ysf-ref",
     "status": "up",
-    "uptime": "99.87%",
-    "uptimeDay": "99.26%",
-    "uptimeWeek": "93.28%",
-    "uptimeMonth": "95.86%",
+    "uptime": "99.86%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "93.46%",
+    "uptimeMonth": "95.88%",
     "uptimeYear": "99.42%",
     "time": 1005,
     "timeDay": 1015,
-    "timeWeek": 956,
+    "timeWeek": 960,
     "timeMonth": 997,
     "timeYear": 1002,
     "dailyMinutesDown": {
-      "2025-04-14": 11,
       "2025-04-13": 81,
       "2025-04-12": 50,
       "2025-04-11": 151,
@@ -74,7 +73,7 @@
       "2025-02-26": 118,
       "2025-02-25": 53,
       "2025-02-24": 208,
-      "2025-02-23": 40
+      "2025-02-23": 59
     }
   },
   {
@@ -92,7 +91,7 @@
     "timeDay": 1588,
     "timeWeek": 1703,
     "timeMonth": 1874,
-    "timeYear": 1817,
+    "timeYear": 1818,
     "dailyMinutesDown": {}
   },
   {
@@ -151,7 +150,7 @@
     "timeDay": 735,
     "timeWeek": 816,
     "timeMonth": 888,
-    "timeYear": 977,
+    "timeYear": 978,
     "dailyMinutesDown": {
       "2025-04-03": 1065,
       "2025-04-02": 1440,
@@ -202,8 +201,7 @@
       "2024-04-25": 94,
       "2024-04-24": 91,
       "2024-04-22": 57,
-      "2024-04-16": 32,
-      "2024-04-15": 139
+      "2024-04-16": 32
     }
   },
   {
@@ -257,8 +255,7 @@
       "2024-04-25": 94,
       "2024-04-24": 91,
       "2024-04-22": 56,
-      "2024-04-16": 32,
-      "2024-04-15": 138
+      "2024-04-16": 32
     }
   }
 ]
