@@ -27,14 +27,14 @@
     "slug": "ysf-ref",
     "status": "down",
     "uptime": "99.87%",
-    "uptimeDay": "90.28%",
+    "uptimeDay": "90.27%",
     "uptimeWeek": "94.19%",
     "uptimeMonth": "95.66%",
-    "uptimeYear": "99.43%",
-    "time": 1003,
-    "timeDay": 1011,
-    "timeWeek": 992,
-    "timeMonth": 987,
+    "uptimeYear": "99.44%",
+    "time": 1002,
+    "timeDay": 1009,
+    "timeWeek": 991,
+    "timeMonth": 985,
     "timeYear": 1001,
     "dailyMinutesDown": {
       "2025-05-02": 95,
@@ -75,8 +75,7 @@
       "2025-03-19": 21,
       "2025-03-18": 59,
       "2025-03-17": 134,
-      "2025-03-12": 102,
-      "2025-03-11": 16
+      "2025-03-12": 102
     }
   },
   {
@@ -128,7 +127,7 @@
     "uptime": "99.57%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "96.40%",
+    "uptimeMonth": "96.46%",
     "uptimeYear": "99.11%",
     "time": 644,
     "timeDay": 750,
@@ -151,7 +150,7 @@
     "uptime": "99.53%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.78%",
-    "uptimeMonth": "96.35%",
+    "uptimeMonth": "96.41%",
     "uptimeYear": "99.09%",
     "time": 951,
     "timeDay": 899,
