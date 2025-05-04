@@ -12,7 +12,7 @@
     "uptimeYear": "99.99%",
     "time": 1201,
     "timeDay": 1193,
-    "timeWeek": 1396,
+    "timeWeek": 1448,
     "timeMonth": 1295,
     "timeYear": 1240,
     "dailyMinutesDown": {
@@ -25,16 +25,16 @@
     "url": "https://ysf.freedmr.it",
     "icon": "https://icons.duckduckgo.com/ip3/ysf.freedmr.it.ico",
     "slug": "ysf-ref",
-    "status": "down",
+    "status": "up",
     "uptime": "99.87%",
-    "uptimeDay": "98.21%",
-    "uptimeWeek": "93.73%",
+    "uptimeDay": "98.23%",
+    "uptimeWeek": "93.74%",
     "uptimeMonth": "95.69%",
-    "uptimeYear": "99.44%",
-    "time": 1002,
-    "timeDay": 1177,
-    "timeWeek": 1013,
-    "timeMonth": 990,
+    "uptimeYear": "99.43%",
+    "time": 1003,
+    "timeDay": 1187,
+    "timeWeek": 1018,
+    "timeMonth": 991,
     "timeYear": 1002,
     "dailyMinutesDown": {
       "2025-05-04": 26,
@@ -76,7 +76,7 @@
       "2025-03-20": 154,
       "2025-03-19": 21,
       "2025-03-18": 59,
-      "2025-03-17": 87
+      "2025-03-17": 134
     }
   },
   {
@@ -92,7 +92,7 @@
     "uptimeYear": "99.99%",
     "time": 1810,
     "timeDay": 1710,
-    "timeWeek": 1742,
+    "timeWeek": 1768,
     "timeMonth": 1796,
     "timeYear": 1821,
     "dailyMinutesDown": {
@@ -112,7 +112,7 @@
     "uptimeYear": "99.99%",
     "time": 1789,
     "timeDay": 1881,
-    "timeWeek": 1825,
+    "timeWeek": 1862,
     "timeMonth": 1827,
     "timeYear": 1804,
     "dailyMinutesDown": {
@@ -132,7 +132,7 @@
     "uptimeYear": "99.11%",
     "time": 645,
     "timeDay": 667,
-    "timeWeek": 688,
+    "timeWeek": 723,
     "timeMonth": 676,
     "timeYear": 652,
     "dailyMinutesDown": {
@@ -155,7 +155,7 @@
     "uptimeYear": "99.09%",
     "time": 951,
     "timeDay": 757,
-    "timeWeek": 987,
+    "timeWeek": 994,
     "timeMonth": 924,
     "timeYear": 984,
     "dailyMinutesDown": {
@@ -185,7 +185,7 @@
     "uptimeYear": "99.65%",
     "time": 737,
     "timeDay": 602,
-    "timeWeek": 716,
+    "timeWeek": 731,
     "timeMonth": 707,
     "timeYear": 737,
     "dailyMinutesDown": {
@@ -218,7 +218,7 @@
     "uptimeYear": "98.18%",
     "time": 742,
     "timeDay": 874,
-    "timeWeek": 807,
+    "timeWeek": 835,
     "timeMonth": 748,
     "timeYear": 724,
     "dailyMinutesDown": {
