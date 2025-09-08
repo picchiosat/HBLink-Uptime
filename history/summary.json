@@ -12,8 +12,8 @@
     "uptimeYear": "99.97%",
     "time": 1264,
     "timeDay": 2295,
-    "timeWeek": 1349,
-    "timeMonth": 1311,
+    "timeWeek": 1317,
+    "timeMonth": 1318,
     "timeYear": 1315,
     "dailyMinutesDown": {
       "2025-06-04": 73,
@@ -29,17 +29,17 @@
     "slug": "ysf-ref",
     "status": "up",
     "uptime": "99.88%",
-    "uptimeDay": "97.82%",
-    "uptimeWeek": "95.18%",
-    "uptimeMonth": "95.56%",
+    "uptimeDay": "98.24%",
+    "uptimeWeek": "96.14%",
+    "uptimeMonth": "95.57%",
     "uptimeYear": "99.42%",
     "time": 1014,
     "timeDay": 1156,
-    "timeWeek": 1074,
-    "timeMonth": 1043,
+    "timeWeek": 1078,
+    "timeMonth": 1044,
     "timeYear": 1012,
     "dailyMinutesDown": {
-      "2025-09-07": 31,
+      "2025-09-07": 25,
       "2025-09-06": 69,
       "2025-09-05": 18,
       "2025-09-04": 81,
@@ -80,7 +80,8 @@
       "2025-07-29": 82,
       "2025-07-28": 52,
       "2025-07-27": 87,
-      "2025-07-26": 22
+      "2025-07-26": 22,
+      "2025-07-25": 20
     }
   },
   {
@@ -96,8 +97,8 @@
     "uptimeYear": "99.98%",
     "time": 1830,
     "timeDay": 1643,
-    "timeWeek": 1725,
-    "timeMonth": 1948,
+    "timeWeek": 1738,
+    "timeMonth": 1819,
     "timeYear": 1864,
     "dailyMinutesDown": {
       "2025-06-04": 27,
@@ -118,8 +119,8 @@
     "uptimeYear": "99.99%",
     "time": 1802,
     "timeDay": 2245,
-    "timeWeek": 1739,
-    "timeMonth": 1736,
+    "timeWeek": 1755,
+    "timeMonth": 1729,
     "timeYear": 1827,
     "dailyMinutesDown": {
       "2025-04-15": 32
@@ -138,8 +139,8 @@
     "uptimeYear": "96.06%",
     "time": 660,
     "timeDay": 607,
-    "timeWeek": 596,
-    "timeMonth": 637,
+    "timeWeek": 595,
+    "timeMonth": 632,
     "timeYear": 680,
     "dailyMinutesDown": {
       "2025-07-30": 83,
@@ -175,8 +176,8 @@
     "uptimeYear": "96.03%",
     "time": 975,
     "timeDay": 825,
-    "timeWeek": 797,
-    "timeMonth": 1022,
+    "timeWeek": 783,
+    "timeMonth": 883,
     "timeYear": 964,
     "dailyMinutesDown": {
       "2025-07-22": 42,
@@ -219,7 +220,7 @@
     "time": 741,
     "timeDay": 1327,
     "timeWeek": 786,
-    "timeMonth": 742,
+    "timeMonth": 743,
     "timeYear": 748,
     "dailyMinutesDown": {
       "2025-08-09": 31,
@@ -247,7 +248,7 @@
     "time": 757,
     "timeDay": 848,
     "timeWeek": 725,
-    "timeMonth": 987,
+    "timeMonth": 850,
     "timeYear": 780,
     "dailyMinutesDown": {
       "2025-08-09": 30,
