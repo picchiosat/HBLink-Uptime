@@ -30,17 +30,17 @@
     "slug": "ysf-ref",
     "status": "up",
     "uptime": "99.88%",
-    "uptimeDay": "89.70%",
-    "uptimeWeek": "94.14%",
-    "uptimeMonth": "93.38%",
+    "uptimeDay": "91.73%",
+    "uptimeWeek": "94.25%",
+    "uptimeMonth": "93.41%",
     "uptimeYear": "99.41%",
     "time": 1021,
-    "timeDay": 1121,
+    "timeDay": 1137,
     "timeWeek": 1067,
     "timeMonth": 1091,
     "timeYear": 1024,
     "dailyMinutesDown": {
-      "2025-11-23": 130,
+      "2025-11-23": 119,
       "2025-11-22": 18,
       "2025-11-21": 115,
       "2025-11-20": 127,
@@ -72,7 +72,8 @@
       "2025-10-24": 78,
       "2025-10-23": 44,
       "2025-10-20": 106,
-      "2025-10-19": 48
+      "2025-10-19": 48,
+      "2025-10-18": 26
     }
   },
   {
@@ -124,9 +125,9 @@
     "url": "https://m17ita.hblink.it",
     "icon": "https://icons.duckduckgo.com/ip3/m17ita.hblink.it.ico",
     "slug": "m17-ref",
-    "status": "up",
+    "status": "down",
     "uptime": "98.73%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "99.22%",
     "uptimeMonth": "84.18%",
     "uptimeYear": "94.74%",
@@ -136,6 +137,7 @@
     "timeMonth": 690,
     "timeYear": 680,
     "dailyMinutesDown": {
+      "2025-11-23": 0,
       "2025-11-17": 78,
       "2025-11-01": 1048,
       "2025-10-31": 1440,
