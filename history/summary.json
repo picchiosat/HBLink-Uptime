@@ -16,7 +16,7 @@
     "timeMonth": 0,
     "timeYear": 1356,
     "dailyMinutesDown": {
-      "2026-03-06": 1406,
+      "2026-03-06": 1416,
       "2026-03-05": 1440,
       "2026-03-04": 1440,
       "2026-03-03": 1440,
@@ -117,12 +117,12 @@
     "url": "https://ysf.freedmr.it",
     "icon": "https://icons.duckduckgo.com/ip3/ysf.freedmr.it.ico",
     "slug": "ysf-ref",
-    "status": "up",
+    "status": "down",
     "uptime": "99.80%",
-    "uptimeDay": "88.83%",
+    "uptimeDay": "88.82%",
     "uptimeWeek": "89.23%",
     "uptimeMonth": "88.93%",
-    "uptimeYear": "98.94%",
+    "uptimeYear": "98.96%",
     "time": 1053,
     "timeDay": 1100,
     "timeWeek": 1140,
@@ -159,7 +159,7 @@
       "2026-02-05": 128,
       "2026-02-04": 83,
       "2026-02-03": 104,
-      "2026-02-02": 370
+      "2026-02-02": 291
     }
   },
   {
@@ -172,14 +172,14 @@
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "7.96%",
-    "uptimeYear": "75.75%",
+    "uptimeYear": "75.74%",
     "time": 1869,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 1882,
     "dailyMinutesDown": {
-      "2026-03-06": 1406,
+      "2026-03-06": 1417,
       "2026-03-05": 1440,
       "2026-03-04": 1440,
       "2026-03-03": 1440,
@@ -291,7 +291,7 @@
     "timeMonth": 0,
     "timeYear": 1825,
     "dailyMinutesDown": {
-      "2026-03-06": 1406,
+      "2026-03-06": 1417,
       "2026-03-05": 1440,
       "2026-03-04": 1440,
       "2026-03-03": 1440,
